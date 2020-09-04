@@ -1,3 +1,3 @@
-# ysc_spm_t
+# ysc_spm_test
 
 A description of this package.

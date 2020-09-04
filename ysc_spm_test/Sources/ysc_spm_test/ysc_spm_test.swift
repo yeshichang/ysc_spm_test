@@ -1,6 +1,4 @@
-
-// test
-public struct ysc_spm_t {
+public struct ysc_spm_test {
     var text = "Hello, World!"
     
     public func sayHello() {
@@ -8,7 +6,6 @@ public struct ysc_spm_t {
     }
 }
 
-
 public func sayHello() {
-    print("hi hello!")
+    print("hello")
 }
