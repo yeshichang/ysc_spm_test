@@ -1,12 +1,12 @@
 import XCTest
-@testable import test
+@testable import ysc_spm_t
 
-final class testTests: XCTestCase {
+final class ysc_spm_tTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(test().text, "Hello, World!")
+        XCTAssertEqual(ysc_spm_t().text, "Hello, World!")
     }
 
     static var allTests = [

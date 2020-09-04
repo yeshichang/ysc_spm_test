@@ -1,7 +1,7 @@
 import XCTest
 
-import testTests
+import ysc_spm_tTests
 
 var tests = [XCTestCaseEntry]()
-tests += testTests.allTests()
+tests += ysc_spm_tTests.allTests()
 XCTMain(tests)
